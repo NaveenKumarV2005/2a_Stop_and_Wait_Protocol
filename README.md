@@ -21,7 +21,8 @@ To write a python program to perform stop and wait protocol
 <img width="402" alt="client image" src="https://github.com/NaveenKumarV2005/2a_Stop_and_Wait_Protocol/assets/151476286/0e81c76a-1d8e-4955-8a48-88efa5a6f746">
 
 ### server output:
-<img width="525" alt="server code" src="https://github.com/NaveenKumarV2005/2a_Stop_and_Wait_Protocol/assets/151476286/aee1796a-a26d-40da-bb6e-35e5b6bcc05d">
+<img width="325" alt="server image" src="https://github.com/NaveenKumarV2005/2a_Stop_and_Wait_Protocol/assets/151476286/0ccee357-a9cf-4763-836c-794f1ccc5002">
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
